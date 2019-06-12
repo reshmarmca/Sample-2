@@ -12,19 +12,19 @@
 
     <ul class="nav navbar-nav ml-auto">
       <li class="nav-item ">
-        <a class="nav-link"  href="#" style="color:DodgerBlue;">Home <span class="sr-only"></span></a>
+        <a class="nav-link"  href="#" style="color:black;">Home <span class="sr-only"></span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#" style="color:DodgerBlue;margin-left:30px;">Services</a>
+        <a class="nav-link" href="#" style="color:black;margin-left:30px;">Services</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#" style="color:DodgerBlue;margin-left:30px;">Works</a>
+        <a class="nav-link" href="#" style="color:black;margin-left:30px;">Works</a>
       </li>
             <li class="nav-item">
-        <a class="nav-link " href="#" style="color:DodgerBlue;margin-left:30px;">Blog</a>
+        <a class="nav-link " href="#" style="color:black;margin-left:30px;">Blog</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="#" style="color:DodgerBlue;margin-left:30px;">Contacts</a>
+        <a class="nav-link " href="#" style="color:black;margin-left:30px;">Contacts</a>
       </li>
     </ul>
     </div>
@@ -69,17 +69,12 @@
               <div class="col-sm-6" style="background-color:white;"> 
                 <img  src="../assets/t24.jpg"  style="width:400px;height:230px;" alt="twitter">
               </div>
-              <div class="col-sm-6" style="background-color:white;"> 
+              <div class="col-sm-6" style="background-color:white;padding-bottom:25px;"> 
 
  
       
-<p style="margin-top:25px;"><u>Born</u>	23 May 1943 (age 76)
-United States<br>
-<u>Nationality</u>	Indian<br>
-<u>Education</u>	BSc (wildlife management)<br>
-Alma mater	Pacific Western University<br>
-<u>Occupation</u>	Herpetologist, Conservationist<br>
-<u>Known for</u>	Wildlife film-making, Herpetology, Rolex Award</p>    
+<p style="margin-top:25px;padding-left:55px;margin-right:55px;text-align:justify;">An Indo-American boyhood, the Vietnam War, gators, snakes and an emu named Neelakantan... As herpetologist-conservationist Romulus Whitaker receives his Padma Shri from the President.
+Romulus Whitaker is 74 but dodges the lashing tail of the two-year-old mugger with the dexterity of a young pugilist. He is on his weekly visit to the Madras Crocodile Bank and Centre for Herpetology (MCB), Asia’s first crocodile breeding hub.</p>    
     
   
 </div> 
@@ -94,7 +89,7 @@ Alma mater	Pacific Western University<br>
 
  
       
-<p style="margin-top:25px;text-align:justify;padding-left:60px;padding-top:30px;">Whitaker was the founder director of the Snake Park in Chennai. The park was conceived to rehabilitate the Irula tribe who are known for their expertise in catching snakes. The tribals were left jobless after the ban of snake trading. Whitaker
+<p style="margin-top:25px;text-align:justify;padding-left:55px;margin-right:55px;">Whitaker was the founder director of the Snake Park in Chennai. The park was conceived to rehabilitate the Irula tribe who are known for their expertise in catching snakes. The tribals were left jobless after the ban of snake trading. Whitaker
  helped the Irula tribe to get involved in extracting snake venom used for the production of antivenom drugs.</p>    
     
   
@@ -105,6 +100,29 @@ Alma mater	Pacific Western University<br>
               </div>
 
               </div>
+
+              <div class="row">
+              <div class="col-sm-6" style="background-color:white;margin-top:20px;"> 
+                <img  src="../assets/t27.jpeg"  style="width:400px;height:230px;" alt="twitter">
+              </div>
+              <div class="col-sm-6" style="background-color:white;"> 
+
+ 
+      
+<p style="margin-top:25px;text-align:justify;padding-left:55px;margin-right:55px;">
+Rom is Honorary Consultant, International Union for the Conservation of Nature and 
+Natural Resources/Species Survival Commission (IUCN/SSC), Vice Chairman (Western Asia),
+ IUCN/SSC Crocodile Specialist Group, Member, IUCN/SSC Indian Subcontinent Reptile and 
+ Amphibian Group and Member, IUCN/SSC Sea Turtle Specialist Group.200 billion dollar dry
+  venome per month production of dry venome by reptile park chennai. Which is the largest among the world.</p>    
+    
+  
+</div> 
+
+
+
+              </div>
+
             </div>
 
 </div>
